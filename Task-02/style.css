@@ -1,0 +1,124 @@
+@import url('link: https://www.fontspace.com/advanced-pixel-lcd-7-font-f15504');
+
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #f8a427;
+}
+
+.container{
+    justify-content: space-around;
+}
+
+.Stopwatch-content {
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
+    border-radius: 10px;
+    font-size: 50px;
+    text-align: center;
+    font-family: OCR-B 10 BT;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2), 0 0 50px#906423; 
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.circle{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1), 0 0 10px rgb(132, 132, 132);
+    border-radius: 10px;
+    font-family:monospace;
+    color: #ffac30;
+}
+
+.Stopwatch-content button{
+    padding: 15px 25px; 
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-family: OCR-B 10 BT;
+    letter-spacing: 1px;
+    font-weight: bolder;
+}
+
+.start {
+    background-color: #28a745;
+}
+
+.start:hover{
+    background-color: #2a803e;
+}
+
+.reset{
+    background-color: #17a2b8;
+}
+
+.reset:hover{
+    background-color: #238392;
+}
+
+.pause{
+    background-color: #dc3545;
+}
+
+.pause:hover{
+    background-color: #a12a36;
+}
+
+.lap{
+    background-color: #ffc107;
+}
+
+.lap:hover{
+    background-color: #d1a729;
+}
+
+.timelaps-content{
+    padding: 20px 30px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.timelaps-content h2{
+    margin-top: 0;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.timelaps-content ul{
+    margin: 0;
+    padding: 0;
+}
+
+.timelaps-content p{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1), 0 0 10px rgb(132, 132, 132);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family:monospace;
+    color: #ffac30;
+}
+
+@media (width < 600px) {
+
+    body{
+        display: block;
+    }    
+
+
+    .Stopwatch-content{
+        font-size: 25px;
+    }
+
+    .Stopwatch-content button {
+        margin-top: 20px;
+    }
+}
