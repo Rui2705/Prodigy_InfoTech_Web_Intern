@@ -30,3 +30,20 @@ Create an interactive **Stopwatch Web Application** using **HTML, CSS, and JavaS
 By leveraging **HTML** for structure, **CSS** for styling, and **JavaScript** for interactivity, this stopwatch application ensures a **smooth and user-friendly experience**. Perfect for tracking time efficiently with a sleek and modern UI! 🚀  
 
 
+## 🎯 Task-03: Build a Tic-Tac-Toe Web Application  
+
+![Screenshot (271)](https://github.com/user-attachments/assets/49889aa3-43bb-4b89-b26e-ff55439b65a1)
+
+Develop an **interactive Tic-Tac-Toe Web Application** using **HTML, CSS, and JavaScript**. This classic game challenges players to strategically place their markers to achieve three in a row, making it an engaging and fun experience.  
+
+### ✨ Key Features:  
+✅ **Two-Player Mode**: Play against a friend in a turn-based format.  
+✅ **AI Opponent**: Challenge a computer-powered AI for solo gameplay.  
+✅ **Winning Logic**: Automatically detects wins, losses, and draws.  
+✅ **Interactive UI**: Smooth animations and real-time updates for a better experience.  
+✅ **Responsive Design**: Optimized for all screen sizes, including mobile devices.  
+
+By leveraging **HTML** for structure, **CSS** for styling, and **JavaScript** for interactivity, this Tic-Tac-Toe application provides a **seamless and entertaining gaming experience**. Get ready to test your strategy and have fun! 🚀  
+
+
+
