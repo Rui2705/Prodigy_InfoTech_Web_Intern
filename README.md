@@ -1,6 +1,8 @@
 # 🌟 Prodigy InfoTech Web Intern  
 
-## 🎯 Task-01: Interactive Navigation Menu with Scroll and Hover Effects  
+## 🎯 Task-01: Interactive Navigation Menu with Scroll and Hover Effects 
+
+![Screenshot (265)](https://github.com/user-attachments/assets/de878566-5137-423d-a42d-f42e06912a6d)
 
 Enhance your website's user experience with a sleek, interactive navigation menu that dynamically changes style based on user interaction. This menu remains **fixed at the top** of the page, ensuring seamless accessibility across all sections.  
 
