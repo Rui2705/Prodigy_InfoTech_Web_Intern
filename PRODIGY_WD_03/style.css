@@ -17,8 +17,12 @@ h1{
     grid-template-rows: repeat(3, 100px);
     gap: 5px;
     width: 320px;
-    margin-left: 37%;
-    margin-right: 37%;
+    margin-left: 36%;
+    margin-right: 36%;
+    background-color: rgb(113, 113, 113);
+    padding: 20px 10px;
+    padding-left: 20px;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2), 0 0 25px 5px rgb(219, 219, 219);
 }
 
 .cell {
@@ -32,7 +36,7 @@ h1{
     background-color: white;
     cursor: pointer;
     font-family: OCR-B 10 BT;
-    color: rgb(163, 66, 255);
+    color: rgb(0, 0, 0);
     font-weight: bolder;
 }
 
@@ -44,6 +48,8 @@ h1{
     font-family: OCR-B 10 BT;
     font-size: 20px;
     color: white;
+    margin-top: -10px;
+    font-weight: bolder;
 }
 
 button {
@@ -55,4 +61,8 @@ button {
     border: none;
     border-radius: 20px;
     color: rgb(163, 66, 255);
+}
+
+button:hover{
+    font-weight: bolder;
 }
