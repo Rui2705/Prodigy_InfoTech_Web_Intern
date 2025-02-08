@@ -14,3 +14,19 @@ Enhance your website's user experience with a sleek, interactive navigation menu
 
 Using **HTML** for structure, **CSS** for styling, and **JavaScript** for interactivity, this menu provides a **visually appealing and user-friendly navigation experience**. Perfect for modern websites looking to enhance usability and aesthetics! 🚀  
 
+
+## 🎯 Task-02: Build a Stopwatch Web Application  
+
+![Screenshot (268)](https://github.com/user-attachments/assets/8ce24df9-beea-460a-92d7-89b9d8838889)
+
+Create an interactive **Stopwatch Web Application** using **HTML, CSS, and JavaScript**. This stopwatch will allow users to **accurately measure time intervals**, providing essential functionalities such as starting, pausing, resetting, and recording lap times.  
+
+### ✨ Key Features:  
+✅ **Start & Pause**: Easily control the stopwatch with a start and pause button.  
+✅ **Reset Functionality**: Reset the timer to its initial state anytime.  
+✅ **Lap Tracking**: Record and display lap times to track performance.  
+✅ **Responsive Design**: Optimized for all screen sizes, including mobile devices.  
+
+By leveraging **HTML** for structure, **CSS** for styling, and **JavaScript** for interactivity, this stopwatch application ensures a **smooth and user-friendly experience**. Perfect for tracking time efficiently with a sleek and modern UI! 🚀  
+
+
