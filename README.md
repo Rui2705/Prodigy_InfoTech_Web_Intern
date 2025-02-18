@@ -43,7 +43,38 @@ Develop an **interactive Tic-Tac-Toe Web Application** using **HTML, CSS, and Ja
 ✅ **Interactive UI**: Smooth animations and real-time updates for a better experience.  
 ✅ **Responsive Design**: Optimized for all screen sizes, including mobile devices.  
 
-By leveraging **HTML** for structure, **CSS** for styling, and **JavaScript** for interactivity, this Tic-Tac-Toe application provides a **seamless and entertaining gaming experience**. Get ready to test your strategy and have fun! 🚀  
+By leveraging **HTML** for structure, **CSS** for styling, and **JavaScript** for interactivity, this Tic-Tac-Toe application provides a **seamless and entertaining gaming experience**. Get ready to test your strategy and have fun! 🚀
+
+## 🎯 Task-04: Build a Personal Portfolio Website  
+
+![Screenshot (282)](https://github.com/user-attachments/assets/c8e65ff4-355f-4c1c-80c0-367b113975b0)
+
+Create a **stunning Personal Portfolio Website** that showcases your **skills, projects, and accomplishments** as a web developer. This portfolio will serve as your **digital identity**, helping you leave a lasting impression on visitors and potential employers.  
+
+### ✨ Key Features:  
+✅ **Home Page**: A captivating headline, a professional photo, and a brief summary of your skills.  
+✅ **About Me**: A detailed section covering your background, education, and professional experience.  
+✅ **Projects Showcase**: Display your best projects with descriptions, technologies used, and live/demo links.  
+✅ **Skills Section**: Highlight your technical and soft skills in an engaging manner.  
+✅ **Contact Form**: Allow visitors to reach out to you easily.  
+✅ **Responsive Design**: Optimized for all devices, ensuring a seamless experience on desktops, tablets, and mobiles.  
+
+By using **HTML** for structure, **CSS** for styling, and **JavaScript** for interactivity, this portfolio will help you establish a **strong online presence** and stand out in the tech industry! 🚀  
+
+## 🎯 Task-05: Build a Weather App Using an API
+
+![Screenshot (281)](https://github.com/user-attachments/assets/21c8b42b-5869-46db-aa29-6baf38dee5e5)
+
+Develop a **dynamic Weather Web Application** that fetches real-time weather data using a **Weather API**. Users can view **current weather conditions, temperature, and other relevant details** based on their location or a manually entered city.  
+
+### ✨ Key Features:  
+✅ **Fetch Weather Data**: Get real-time weather updates using an API.  
+✅ **User Location Detection**: Automatically retrieve weather data based on the user's location.  
+✅ **Search by City**: Allow users to input a city name to check its weather conditions.  
+✅ **Detailed Weather Information**: Display temperature, humidity, wind speed, and weather descriptions.  
+✅ **Responsive Design**: Optimized for all screen sizes, including desktops, tablets, and mobiles.  
+
+By leveraging **HTML** for structure, **CSS** for styling, and **JavaScript** for API integration, this weather app ensures a **smooth and interactive user experience**. Stay updated with live weather conditions anytime, anywhere! ☁️🌍  
 
 
 
