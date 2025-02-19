@@ -37,8 +37,7 @@ By leveraging **HTML** for structure, **CSS** for styling, and **JavaScript** fo
 Develop an **interactive Tic-Tac-Toe Web Application** using **HTML, CSS, and JavaScript**. This classic game challenges players to strategically place their markers to achieve three in a row, making it an engaging and fun experience.  
 
 ### ✨ Key Features:  
-✅ **Two-Player Mode**: Play against a friend in a turn-based format.  
-✅ **AI Opponent**: Challenge a computer-powered AI for solo gameplay.  
+✅ **Two-Player Mode**: Play against a friend in a turn-based format.   
 ✅ **Winning Logic**: Automatically detects wins, losses, and draws.  
 ✅ **Interactive UI**: Smooth animations and real-time updates for a better experience.  
 ✅ **Responsive Design**: Optimized for all screen sizes, including mobile devices.  
